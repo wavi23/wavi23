@@ -1,4 +1,4 @@
-<h1 align="left">Hej 👋 Co tam?</h1>
+<h1 align="left">Hej, Co tam?</h1>
 
 ###
 
@@ -6,15 +6,15 @@
 
 ###
 
-<h2 align="left">`📫` Kontakt</h2>
+<h2 align="left">📫 Kontakt</h2>
 
 ###
 
-<p align="left">- `📧` Mail: wiktoreq12@op.pl  <br>- `🌐` Portfolio: https://github.com/wavi23</p>
+<p align="left">- 📧 Mail: wiktoreq12@op.pl  <br>- 🌐 Portfolio: https://github.com/wavi23</p>
 
 ###
 
-<h2 align="left">`🚀` Technologie, których używam:</h2>
+<h2 align="left">🚀 Technologie, których używam:</h2>
 
 ###
 
