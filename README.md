@@ -2,27 +2,19 @@
 
 ###
 
-<p align="left">Witaj na moim profilu GitHub! 👨‍💻<br>Jestem Wiktor i pasjonuję się tworzeniem nowoczesnych i estetycznych projektów. 🌟</p>
+<p align="left">Witaj na moim profilu GitHub! 👨‍💻<br>Jestem Wiktorm kocham slopstyle mtb i jeździć na crossie.</p>
 
 ###
 
-<h2 align="left">💻 O mnie</h2>
+<h2 align="left">`📫` Kontakt</h2>
 
 ###
 
-<p align="left">- 🔧 Tworzę pluginy i boty, m.in. na Discorda.<br>- 🎨 Stawiam na nowoczesny design i funkcjonalność.<br>- 🌍 Uwielbiam uczyć się nowych technologii i eksperymentować z kodem.</p>
+<p align="left">- `📧` Mail: wiktoreq12@op.pl  <br>- `🌐` Portfolio: https://github.com/wavi23</p>
 
 ###
 
-<h2 align="left">📫 Kontakt</h2>
-
-###
-
-<p align="left">- 📧 Mail: wiktoreq12@op.pl  <br>- 🌐 Portfolio: https://github.com/wavi23</p>
-
-###
-
-<h2 align="left">🚀 Technologie, których używam</h2>
+<h2 align="left">`🚀` Technologie, których używam:</h2>
 
 ###
 
